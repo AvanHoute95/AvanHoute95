@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AvanHoute95
 - 👀 I’m interested in Archery, 3D Printing, Hunting, Fishing, Cars, Blacksmithing, and anything that involves creativity!
-- 🌱 I’m currently learning html, CSS, Javascript, Python
+- 🌱 I’m currently learning html, CSS, Javascript, and Java. Familiar with the basics of Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... austin.vanhoute@gmail.com
 
